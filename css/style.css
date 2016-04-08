@@ -1212,10 +1212,10 @@ ul.social-buttons{
 ul.social-buttons li a{
     display:block;
     background-color:#222;
-    height:40px;
-    width:40px;
+    height:120px;
+    width:120px;
     border-radius:100%;
-    font-size:20px;
+    font-size:60px;
     line-height:40px;
     color:#fff;
     outline:0;
@@ -1325,4 +1325,7 @@ table.uni_project td.content{
 }
 table.uni_project td.mid{
     width: 20px
+}
+ul.social-buttons li a i{
+    margin-top: 0.5em
 }
