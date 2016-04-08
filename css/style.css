@@ -1314,5 +1314,15 @@ body{
 
 ul.experience-bullet-point li {
     list-style-type:disc;
-    list-style-position: outside;
+    list-style-position: outside
+}
+table.uni_project td.title{
+    text-align: right;
+    vertical-align: top
+}
+table.uni_project td.content{
+    text-align: left
+}
+table.uni_project td.mid{
+    width: 20px
 }
